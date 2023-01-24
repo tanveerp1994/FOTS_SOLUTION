@@ -1,1 +1,5 @@
 # FOTS_SOLUTION![01_LACP ACTIVE](https://user-images.githubusercontent.com/65110236/214215983-4f3f1733-dc0b-4f01-a507-af4a65ad28e4.png)
+![02_PING RESPONSE](https://user-images.githubusercontent.com/65110236/214216093-a3ee7ef2-671b-4e1c-aee9-73b12268a331.png)
+![03_REMOTE SSH](https://user-images.githubusercontent.com/65110236/214216115-5ceb4d67-7f29-4916-a049-e3e306271627.png)
+![04_REMOTE SSH SUCCESS](https://user-images.githubusercontent.com/65110236/214216151-b2b175b1-cf36-44bd-aae1-249c3ec08ff4.png)
+![10_NTP SYNCH SUCCESS](https://user-images.githubusercontent.com/65110236/214216189-9ac038e4-f9e0-4411-bea9-b5abb4e5f46f.png)
